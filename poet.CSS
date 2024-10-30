@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(162, 61, 230);
+}
+ .main{
+    background-color: rgb(230, 58, 201);
+    width: 250px;
+    height: 200px;
+    margin-left: 400px;
+    margin-top: 100px;
+    border-radius: 8px;
+    padding: 9px;
+    padding-left: 30px;
+    border-style: outset;
+}
+ 
+textarea {
+    background-color: rgb(162, 61, 230);
+    color: white;
+    padding-left: 30px;
+    border-radius: 5px;
+    border-style: outset;
+}
+.cap{background-color: rgb(187, 74, 181);
+    border-radius: 5px;
+    border-color: azure;
+    border-style: double;
+    font-weight: bold;
+}
+.small{background-color: rgb(187, 74, 181);
+    border-radius: 5px;
+    border-color: azure;
+    border-style: double;
+    font-weight: bold;
+}
+.hum{background-color: rgb(187, 74, 181);
+    border-radius: 5px;
+    border-color: azure;
+    border-style: double;
+font-weight: bold;
+}
+.large{background-color: rgb(187, 74, 181);
+    border-radius: 5px;
+    border-color: azure;
+    border-style: double;
+    font-weight: bold;
+}
